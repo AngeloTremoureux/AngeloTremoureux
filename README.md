@@ -1,8 +1,8 @@
-
-  ![👋 Angelo Tremoureux](https://user-images.githubusercontent.com/56980827/156919003-90ac8f38-9fad-4119-8dcf-f74cd98ed7cd.png)
-
-
+<div align="center">
+  <img align="center" src="frog.gif" alt="frog" width="150" height="150">
+</div>
 <h1 align="center">Salut 👋, c'est Angelo Tremoureux</h1>
+
 <h3 align="center">Un étudiant de 20 ans passionné d'informatique ⚡ plus particulièrement dans le domaine du développement web 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelotremoureux&label=Profile%20views&color=0e75b6&style=flat" alt="angelotremoureux" /> </p>
